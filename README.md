@@ -1,1 +1,1 @@
-# 2-player-pong
+# Canvas
